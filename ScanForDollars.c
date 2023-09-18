@@ -1,3 +1,6 @@
+/*This C program prompts the user to input a line of text and then scans the input to identify and extract any numerical dollar amounts. 
+Upon identification, each dollar amount is printed on a new line.*/
+
 #include <stdio.h>
 
 #define DOLLAR_SIGN '$'
